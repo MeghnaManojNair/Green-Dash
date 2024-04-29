@@ -1,1 +1,2 @@
 # Green-Dash
+Welcome to this environmental data visualization tool for small-scale food processing plants! The application utilizes a line chart component, built using the recharts library and the intuitive UI allows users to select specific metrics, enabling detailed analysis of trends and fluctuations. The tech stack used for developing this application is primarily based on React.JS, HTML and CSS.
